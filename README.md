@@ -1,6 +1,6 @@
-# Practice_Python
+# Practice Python submissions
 
-Solutions of http://www.practicepython.org/
+Submissions of [Practice Python](http://www.practicepython.org/)
 
 ## 01 Character Input
 
@@ -15,4 +15,9 @@ Solutions of http://www.practicepython.org/
 ## 03 List less than ten
 
 - [Exercise](http://www.practicepython.org/exercise/2014/02/15/03-list-less-than-ten.html)
-- [Submission](/03-List-Less-Than-Ten)
+- [Submission](/03-List-Less-Than-Ten/03-list-less-than-ten.py)
+
+## 04 Divisors
+
+- [Exercise](http://www.practicepython.org/exercise/2014/02/26/04-divisors.html)
+- [Submission](/04-Divisors)
