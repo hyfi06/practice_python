@@ -10,4 +10,9 @@ Solutions of http://www.practicepython.org/
 ## 02 Odd or Even
 
 - [Exercise](http://www.practicepython.org/exercise/2014/02/05/02-odd-or-even.html)
-- [Submission]()
+- [Submission](/02-Odd-Or-Even/02-odd-or-even.py)
+
+## 03 List less than ten
+
+- [Exercise](http://www.practicepython.org/exercise/2014/02/15/03-list-less-than-ten.html)
+- [Submission](/03-List-Less-Than-Ten)
