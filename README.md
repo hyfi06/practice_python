@@ -22,7 +22,14 @@ Submissions of [Practice Python](http://www.practicepython.org/)
 - [Exercise](http://www.practicepython.org/exercise/2014/02/26/04-divisors.html)
 - [Submission](/04-Divisors/04-divisors)
 
-## 05 Divisors
+
+## 5 List Over Lap
 
 - [Exercise](http://www.practicepython.org/exercise/2014/03/05/05-list-overlap.html)
 - [Submission](/05-List-Overlap/05-list-overlap.py)
+
+
+## 6 String List
+
+- [Exercise](http://www.practicepython.org/exercise/2014/03/12/06-string-lists.html)
+- [Submission](/06-String-List/06-string-list)
